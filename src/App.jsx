@@ -304,6 +304,9 @@ function App() {
           </div>
         </div>
       </footer>
+      <a href="https://www.notion.so/Pol-tica-de-Privacidade-28d811415d2880c2865fd517e2a4dbdd" target="_blank">
+  Política de Privacidade
+</a>
     </div>
   )
 }
